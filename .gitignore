@@ -1,0 +1,33 @@
+# Vivado
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ioplanning/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+.Xil/
+webtalk*
+*.debug
+hs_err_pid*
+
+# Vitis / Eclipse
+.metadata/
+.analytics
+.sdk/
+**/Debug/
+**/Release/
+**/build/
+**/export/
+**/_ide/
+*.o
+*.elf
+*.d
+*.a
+
+# Bitstream (xem ghi chú)
+# *.bit
+# *.bin
